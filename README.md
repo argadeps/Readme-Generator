@@ -1,2 +1,2 @@
 # Readme-Generator
-The task is to create a task to command line application to generate a readme file
+The task is to create a command line application to generate a readme file
